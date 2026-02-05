@@ -1,0 +1,155 @@
+{
+  "fibladi": {
+    "order": 1,
+    "img": "https://fibladi.com/app/Fibladi.svg",
+    "links": {
+      "ar": "https://ana.fibladi.com/ar",
+      "fr": "https://ana.fibladi.com/fr"
+    },
+    "text": {
+      "fr": "fibladi",
+      "ar": "في بلادي"
+    },
+    "color": "#248C01",
+    "size": {
+      "width": "45.2",
+      "height": "45.2"
+    }
+  },
+  "news": {
+    "order": 2,
+    "img": "https://fibladi.com/app/News.svg",
+    "links": {
+      "ar": "https://fibladi.com/news",
+      "fr": "https://fibladi.com/news/fr"
+    },
+    "text": {
+      "fr": "News",
+      "ar": "الأخبار"
+    },
+    "color": "#1D4ED8",
+    "size": {
+      "width": "35.2",
+      "height": "35.2"
+    }
+  },
+  "lastNews": {
+    "order": 3,
+    "img": "https://fibladi.com/app/LastNews.svg",
+    "links": {
+      "ar": "https://fibladi.com/news/%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/",
+      "fr": "https://fibladi.com/news/fr/dernieres-actualites/"
+    },
+    "text": {
+      "fr": "Dernières News",
+      "ar": "آخر الأخبار"
+    },
+    "color": "#F502E4",
+    "size": {
+      "width": "35.2",
+      "height": "35.2"
+    }
+  },
+  "trending": {
+    "order": 4,
+    "img": "https://fibladi.com/app/Trending.svg",
+    "links": {
+      "ar": "https://fibladi.com/news/trending-lasthours",
+      "fr": "https://fibladi.com/news/fr/trending-lasthours"
+    },
+    "text": {
+      "fr": "Trending",
+      "ar": "الأكثر رواجًا"
+    },
+    "color": "#FF1744",
+    "size": {
+      "width": "35.2",
+      "height": "35.2"
+    }
+  },
+  "shop": {
+    "order": 5,
+    "img": "https://fibladi.com/app/Shop.svg",
+    "links": {
+      "ar": "https://shop.fibladi.com/ar",
+      "fr": "https://shop.fibladi.com/fr"
+    },
+    "text": {
+      "fr": "Shop",
+      "ar": "تسوق"
+    },
+    "color": "#FFA64C",
+    "size": {
+      "width": "35.2",
+      "height": "35.2"
+    }
+  },
+  "topShops": {
+    "order": 6,
+    "img": "https://fibladi.com/app/TopShops.svg",
+    "links": {
+      "ar": "https://shop.fibladi.com/ar/companies",
+      "fr": "https://shop.fibladi.com/fr/companies"
+    },
+    "text": {
+      "fr": "Top Shops",
+      "ar": "متاجر"
+    },
+    "color": "#FF4001",
+    "size": {
+      "width": "35.2",
+      "height": "35.2"
+    }
+  },
+  "Salat": {
+    "order": 9,
+    "img": "https://fibladi.com/app/Salat.svg",
+    "links": {
+      "ar": "https://salat.fibladi.com/",
+      "fr": "https://salat.fibladi.com/"
+    },
+    "text": {
+      "fr": "Salat",
+      "ar": "صلاة"
+    },
+    "color": "#0c54fa",
+    "size": {
+      "width": "35.2",
+      "height": "45.2"
+    }
+  },
+  "job": {
+    "order": 7,
+    "img": "https://fibladi.com/app/Emploi.svg",
+    "links": {
+      "ar": "https://job.fibladi.com/ar",
+      "fr": "https://job.fibladi.com/fr"
+    },
+    "text": {
+      "fr": "Emploi",
+      "ar": "وظائف"
+    },
+    "color": "#8500B3",
+    "size": {
+      "width": "35.2",
+      "height": "35.2"
+    }
+  },
+  "pro": {
+    "order": 8,
+    "img": "https://fibladi.com/app/Pro.svg",
+    "links": {
+      "ar": "https://pro.fibladi.com/",
+      "fr": "https://pro.fibladi.com/"
+    },
+    "text": {
+      "fr": "Business",
+      "ar": "محترفون"
+    },
+    "color": "#FFCA28",
+    "size": {
+      "width": "35.2",
+      "height": "35.2"
+    }
+  }
+}

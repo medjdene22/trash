@@ -1,0 +1,2 @@
+import{u as s,j as t,O as r}from"./index-utLtn1CU.js";import{H as e,B as m,F as n}from"./Header-CBHVKxop.js";import"./Logo-CyZE28Xj.js";import"./iconBase-qT_nPRGq.js";import"./index-DkTdQX2y.js";import"./Badge-BdtHvwvP.js";const l=function(){const o=s();return t.jsxs("div",{className:"  ",children:[t.jsx(e,{bottomBorder:!0}),t.jsx("main",{className:"pt-20 lg:pt-0 sm:min-h-screen",children:t.jsx(r,{})},o?"fr":"ar"),t.jsx(m,{isFr:o}),t.jsx(n,{})]})};export{l as component};
+//# sourceMappingURL=route-BgcpBUwP.js.map
