@@ -1,0 +1,2 @@
+import{W as e,j as p}from"./index-BNQ2beZg.js";import{L as m,C as a}from"./lastNews-DPjvCImo.js";import"./getAds-U84K9VFt.js";import"./NoInternet-BAfdm2Sp.js";import"./Badge-d4n-6tWG.js";import"./image-CQCXA5w0.js";import"./index-ebrbxRDz.js";import"./card-B5HftMb0.js";import"./plus-JqTLlmxb.js";const C=()=>{const{postId:t,code:o,pagenumber:r}=e.useLoaderData();return o&&o<3?p.jsx(m,{categoryId:t,vr:"fr",code:o,page:r}):p.jsx(a,{categoryId:t,vr:"fr",code:o,page:r})};export{C as component};
+//# sourceMappingURL=_pagenumber-sNyFiWI9.js.map
