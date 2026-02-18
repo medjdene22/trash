@@ -33,18 +33,18 @@
       "height": "35.2"
     }
   },
-  "lastNews": {
+  "play": {
     "order": 3,
-    "img": "https://fibladi.com/app/LastNews.svg",
+    "img": "https://fibladi.com/app/Play.svg",
     "links": {
-      "ar": "https://fibladi.com/news/%D8%A2%D8%AE%D8%B1-%D8%A7%D9%84%D8%A3%D8%AE%D8%A8%D8%A7%D8%B1/",
-      "fr": "https://fibladi.com/news/fr/dernieres-actualites/"
+      "ar": "https://play.fibladi.com/",
+      "fr": "https://play.fibladi.com/"
     },
     "text": {
-      "fr": "Dernières News",
-      "ar": "آخر الأخبار"
+      "fr": "Play",
+      "ar": "شاهد"
     },
-    "color": "#F502E4",
+    "color": "#F43F5E",
     "size": {
       "width": "35.2",
       "height": "35.2"
