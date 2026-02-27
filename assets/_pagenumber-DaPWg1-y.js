@@ -1,2 +1,0 @@
-import{W as e,j as p}from"./index-D1SE-SvL.js";import{L as m,C as a}from"./lastNews-BPXZLjf3.js";import"./getAds-ZwNkdyW8.js";import"./NoInternet-BxWFU1vr.js";import"./Badge-XVAfx2R1.js";import"./image-WJUTRHpK.js";import"./index-CsiMLc5_.js";import"./card-BlOamczW.js";import"./plus-D8ETelxr.js";const C=()=>{const{postId:t,code:o,pagenumber:r}=e.useLoaderData();return o&&o<3?p.jsx(m,{categoryId:t,vr:"fr",code:o,page:r}):p.jsx(a,{categoryId:t,vr:"fr",code:o,page:r})};export{C as component};
-//# sourceMappingURL=_pagenumber-DaPWg1-y.js.map

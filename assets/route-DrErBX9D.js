@@ -1,2 +1,0 @@
-import{u as s,j as t,O as r}from"./index-Cx1Fw4Cs.js";import{H as e,B as m,F as n}from"./Header-BIxnIWnh.js";import"./Logo-ILxKUUCE.js";import"./iconBase-DPTrYShI.js";import"./index-2qm3fmok.js";import"./clock-CC5ONUdB.js";import"./Badge--vNY5uM8.js";const d=function(){const o=s();return t.jsxs("div",{className:"  ",children:[t.jsx(e,{bottomBorder:!0}),t.jsx("main",{className:"pt-20 lg:pt-0 sm:min-h-screen",children:t.jsx(r,{})},o?"fr":"ar"),t.jsx(m,{isFr:o}),t.jsx(n,{})]})};export{d as component};
-//# sourceMappingURL=route-DrErBX9D.js.map

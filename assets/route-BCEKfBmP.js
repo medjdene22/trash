@@ -1,2 +1,0 @@
-import{u as s,j as t,O as r}from"./index-DnZGLzfF.js";import{H as e,B as m,F as n}from"./Header-DrS6IdF2.js";import"./Logo-B1F_jBfz.js";import"./iconBase-DkbvVw6p.js";import"./index-B_GdFPZJ.js";import"./Badge-BmITbaRu.js";const l=function(){const o=s();return t.jsxs("div",{className:"  ",children:[t.jsx(e,{bottomBorder:!0}),t.jsx("main",{className:"pt-20 lg:pt-0 sm:min-h-screen",children:t.jsx(r,{})},o?"fr":"ar"),t.jsx(m,{isFr:o}),t.jsx(n,{})]})};export{l as component};
-//# sourceMappingURL=route-BCEKfBmP.js.map

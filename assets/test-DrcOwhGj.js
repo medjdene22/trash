@@ -1,2 +1,0 @@
-import{j as t}from"./index-D1SE-SvL.js";const n=function(){return t.jsxs("div",{className:"relative",children:[t.jsx("blockquote",{className:"instagram-media","data-instgrm-permalink":"https://www.instagram.com/p/DTIQgdBCGVG/","data-instgrm-version":"14",style:{width:"100%",maxWidth:"540px",margin:"auto"}}),t.jsx("script",{async:!0,src:"https://www.instagram.com/embed.js"})]})};export{n as component};
-//# sourceMappingURL=test-DrcOwhGj.js.map

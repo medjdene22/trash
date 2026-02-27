@@ -1,2 +1,0 @@
-import{K as u,J as f}from"./index-DnZGLzfF.js";import{u as c}from"./spin-loading-D9ZC2EBg.js";const p="https://apin.fibladi.com/fibladi",d=(s,o,t)=>c({enabled:!!s,staleTime:t?6e4:26e4,queryKey:["last",{lang:s,page:o,rand:!!t}],queryFn:async()=>{const e=await fetch(`${p}/lastnews?lang=${s}&p=${o}`);if(!e.ok)throw new Error("faild to fetch posts");const{results:a,total:n}=await e.json(),r=a.map(i=>u(i));return{posts:t?f(r):r,total:n}}});export{d as u};
-//# sourceMappingURL=getLast-4TA3YBkT.js.map

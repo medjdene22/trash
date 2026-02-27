@@ -1,2 +1,0 @@
-import{E as t,j as p}from"./index-DnZGLzfF.js";import{T as r}from"./topNewsPage-D-rKYR_Y.js";import"./getLastByCategory-iEBbtOWa.js";import"./NoInternet-BwYeKj_b.js";import"./spin-loading-D9ZC2EBg.js";import"./Badge-BmITbaRu.js";import"./image-JHHOSVzf.js";import"./button-BpzrFUPL.js";import"./index-B_GdFPZJ.js";import"./card-Zomyx3eA.js";import"./SectionTabHeader-epTQlZiS.js";import"./getAds-C1_0ZOOQ.js";import"./plus-Becth1Yg.js";const E=()=>{const o=t.useSearch().page;return p.jsx(r,{vr:"ar",page:o})};export{E as component};
-//# sourceMappingURL=top-news-CPemy_5M.js.map
