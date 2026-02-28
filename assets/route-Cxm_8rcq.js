@@ -1,0 +1,2 @@
+import{u as s,j as t,O as r}from"./index-XXX8Ah-D.js";import{H as e,B as m,F as n}from"./Header-BsxObL0n.js";import"./Logo-mAPMC95o.js";import"./iconBase-BVNjcBkf.js";import"./index-371cgXhy.js";import"./clock-BEgccW3x.js";import"./Badge-99mpd8dA.js";const d=function(){const o=s();return t.jsxs("div",{className:"  ",children:[t.jsx(e,{bottomBorder:!0}),t.jsx("main",{className:"pt-20 lg:pt-0 sm:min-h-screen",children:t.jsx(r,{})},o?"fr":"ar"),t.jsx(m,{isFr:o}),t.jsx(n,{})]})};export{d as component};
+//# sourceMappingURL=route-Cxm_8rcq.js.map
