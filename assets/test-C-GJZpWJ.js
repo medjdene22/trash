@@ -1,0 +1,1 @@
+import{j as o}from"./index-CoxiBptG.js";import{A as t}from"./adsSliderMulti-BnitfPGb.js";import"./image-CLi92lzu.js";import"./getAds-B-EUvlE-.js";import"./spin-loading-BosG-nyR.js";import"./MySlider-BY9gohRV.js";const u=function(){return o.jsx("div",{children:o.jsx(t,{})})};export{u as component};
