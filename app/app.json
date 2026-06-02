@@ -20,8 +20,8 @@
     "order": 2,
     "img": "https://fibladi.com/app/News.svg",
     "links": {
-      "ar": "https://fibladi.com/news",
-      "fr": "https://fibladi.com/news/fr"
+      "ar": "/ar/news",
+      "fr": "/fr/news"
     },
     "text": {
       "fr": "News",
@@ -54,8 +54,8 @@
     "order": 4,
     "img": "https://fibladi.com/app/Trending.svg",
     "links": {
-      "ar": "https://fibladi.com/news/trending-lasthours",
-      "fr": "https://fibladi.com/news/fr/trending-lasthours"
+      "ar": "/ar/news/trending-lasthours",
+      "fr": "/fr/news/trending-lasthours"
     },
     "text": {
       "fr": "Trending",

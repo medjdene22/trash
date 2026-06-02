@@ -1,0 +1,1 @@
+import{u as n}from"./router-CA6MiGPr.js";import{d as e}from"./index-C-DkCxUR.js";import"./react-vendor-KDh1MGvC.js";import"./query-dh_6yDhZ.js";const s=function(){const t=n(),o=localStorage.getItem("lang");if(o){t({to:"/$lang",params:{lang:o}});return}const a=e.get("lang")??"ar";t({to:"/$lang",params:{lang:a}}),localStorage.setItem("lang",a)};export{s as component};
