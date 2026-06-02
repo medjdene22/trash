@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="version" content="News-2-06-2026/3.1.0" />
+    <meta name="version" content="News-30-05-2026/3.0.2" />
     <link rel="icon" href="/fibladi-logo.svg" />
     <meta name="theme-color" content="#238c00" />
     <meta
@@ -17,6 +17,34 @@
       content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"
     />
     <title>في بلادي الجزائر</title>
+
+    <style>
+      #initial-loader {
+        position: fixed;
+        inset: 0;
+        background: #e5e7eb;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        z-index: 9999;
+      }
+      #initial-loader img {
+        width: 140px;
+        height: 140px;
+        animation: initial-loader-pulse 2.4s ease-in-out infinite;
+      }
+      @keyframes initial-loader-pulse {
+        0%,
+        100% {
+          opacity: 1;
+          transform: scale(1);
+        }
+        50% {
+          opacity: 0.85;
+          transform: scale(0.98);
+        }
+      }
+    </style>
 
     <script
       async
@@ -32,14 +60,14 @@
 
       gtag('config', 'G-NZLGM76460')
     </script>
-    <script type="module" crossorigin src="/assets/index-CzBiNj1X.js"></script>
-    <link rel="modulepreload" crossorigin href="/assets/router-CA6MiGPr.js">
-    <link rel="modulepreload" crossorigin href="/assets/react-vendor-KDh1MGvC.js">
-    <link rel="modulepreload" crossorigin href="/assets/query-dh_6yDhZ.js">
-    <link rel="stylesheet" crossorigin href="/assets/index-CerR_RKI.css">
+    <script type="module" crossorigin src="/assets/index-Ndlsz_I4.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/index-nEjFxdeM.css">
   <link rel="manifest" href="/manifest.webmanifest"><script id="vite-plugin-pwa:register-sw" src="/registerSW.js" defer></script></head>
   <body>
     <div id="google_one_tap"></div>
+    <div id="initial-loader">
+      <img src="/fibladi-logo.svg" alt="في بلادي" />
+    </div>
     <div id="app"></div>
 
     <!-- ✅ GOOGLE ONE TAP INLINE SCRIPT -->
