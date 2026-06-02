@@ -1,1 +1,0 @@
-import{A as o}from"./about-us-CyL-tuBy.js";import"./router-CA6MiGPr.js";import"./card-xzHAWJjk.js";import"./index-BdhRjHvz.js";import"./react-vendor-KDh1MGvC.js";import"./query-dh_6yDhZ.js";const s=o;export{s as component};
