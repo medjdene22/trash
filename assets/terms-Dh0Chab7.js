@@ -1,1 +1,0 @@
-import{ab as n,j as o}from"./index-Ndlsz_I4.js";const i=function(){const t=n.useParams().lang;return o.jsx("div",{className:"container min-h-52 flex items-center justify-center text-3xl font-bold mt-20",children:t==="fr"?"Conditions d'utilisation":"شروط الاستخدام"})};export{i as component};

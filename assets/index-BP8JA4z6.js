@@ -1,1 +1,0 @@
-import{e as o,f as e}from"./index-Ndlsz_I4.js";const r=function(){const t=o(),a=localStorage.getItem("lang");if(a){t({to:"/$lang",params:{lang:a}});return}const n=e.get("lang")??"ar";t({to:"/$lang",params:{lang:n}}),localStorage.setItem("lang",n)};export{r as component};
