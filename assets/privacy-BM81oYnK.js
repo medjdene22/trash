@@ -1,0 +1,1 @@
+import{j as e}from"./router-Cbui2Tqt.js";import{q as o}from"./index-DzLql1KZ.js";import"./react-vendor-DuexFZfc.js";import"./query-BctctxKw.js";function s(){const t=o.useParams().lang;return e.jsx("div",{className:"container min-h-52 flex items-center justify-center text-3xl font-bold ",children:t==="fr"?"Politique de confidentialité":"سياسة الخصوصية"})}export{s as component};
