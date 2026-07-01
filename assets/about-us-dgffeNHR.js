@@ -1,1 +1,0 @@
-import{A as o}from"./about-us-i3P8lWyt.js";import"./router-Cbui2Tqt.js";import"./react-vendor-DuexFZfc.js";import"./card-iDcmsR3F.js";import"./index-XWSC8N61.js";import"./query-BctctxKw.js";const s=o;export{s as component};
