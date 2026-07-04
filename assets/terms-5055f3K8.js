@@ -1,1 +1,0 @@
-import{j as o}from"./router-lC6BPPbX.js";import{r as n}from"./index-C0vC-Sno.js";import"./react-vendor-DWFjaRRk.js";import"./query-B-29lJKz.js";function m(){const t=n.useParams().lang;return o.jsx("div",{className:"container min-h-52 flex items-center justify-center text-3xl font-bold",children:t==="fr"?"Conditions d'utilisation":"شروط الاستخدام"})}export{m as component};
