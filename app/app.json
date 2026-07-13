@@ -3,8 +3,8 @@
     "order": 1,
     "img": "https://fibladi.com/app/Fibladi.svg",
     "links": {
-      "ar": "https://ana.fibladi.com/ar",
-      "fr": "https://ana.fibladi.com/fr"
+      "ar": "https://ana.fibladi.com/ar/home",
+      "fr": "https://ana.fibladi.com/fr/home"
     },
     "text": {
       "fr": "fibladi",
@@ -106,7 +106,7 @@
     "img": "https://fibladi.com/app/Salat.svg",
     "links": {
       "ar": "https://salat.fibladi.com/",
-      "fr": "https://salat.fibladi.com/"
+      "fr": "https://salat.fibladi.com/fr"
     },
     "text": {
       "fr": "Salat",
@@ -139,8 +139,8 @@
     "order": 8,
     "img": "https://fibladi.com/app/Pro.svg",
     "links": {
-      "ar": "https://business.fibladi.com/",
-      "fr": "https://business.fibladi.com/"
+      "ar": "https://business.fibladi.com/ar",
+      "fr": "https://business.fibladi.com/fr"
     },
     "text": {
       "fr": "Business",
